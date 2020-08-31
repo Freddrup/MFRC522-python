@@ -1,3 +1,5 @@
+This is a forked repo. Its objective is to update the original project to Python 3 and to use the spidev library instead of the SPI-py library.
+
 MFRC522-python
 ==============
 A small class to interface with the NFC reader Module MFRC522 on the Raspberry Pi.
